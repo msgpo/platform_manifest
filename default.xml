@@ -6,10 +6,10 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="bitbucket"
            fetch="https://bitbucket.org/copperhead-security/"
-           revision="refs/heads/oreo-m3-release" />
+           revision="refs/tags/OPM3.171019.019.2018.04.02.21" />
   <remote  name="github"
            fetch="https://github.com/copperheados/"
-           revision="refs/heads/oreo-m3-release" />
+           revision="refs/tags/OPM3.171019.019.2018.04.02.21" />
   <default revision="refs/tags/android-8.1.0_r21"
            remote="aosp"
            sync-j="4" />
